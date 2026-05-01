@@ -149,7 +149,7 @@ Solved the classic concurrency problem using multithreading (`pthread`) and mult
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HKHAT&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="600"/>
 
-<br><br>
+<br>
 
 - uses: Platane/snk@v3
   with:
@@ -172,7 +172,7 @@ Solved the classic concurrency problem using multithreading (`pthread`) and mult
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
-<br><br>
+<br>
 
 ### 📫 Connect
 <a href="http://linkedin.com/in/el-chakir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
