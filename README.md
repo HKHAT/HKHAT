@@ -25,7 +25,7 @@ I am a software engineer who operates comfortably at both ends of the tech stack
 
 ## 🚀 Featured Full-Stack Projects
 
-> ### 🎮 [ft_transcendence](https://github.com/HKHAT/ft_transcendence) — 3D Multiplayer Ludo Platform
+> ### 🎮 [ft_transcendence](https://github.com/cboujrar/ft_transcendance) — 3D Multiplayer Ludo Platform
 > Full-stack real-time web application featuring a 3D Ludo game via Three.js, WebSocket multiplayer architecture, heuristic AI agents, and social features (chat, friends, leaderboards).
 > <p align="right"><code>Node.js</code> <code>Three.js</code> <code>WebSockets</code> <code>JWT</code></p>
 
@@ -33,7 +33,7 @@ I am a software engineer who operates comfortably at both ends of the tech stack
 > A highly structured REST API featuring JWT authentication, real-time WebSocket integrations, strict data validation, and clean architectural separation.
 > <p align="right"><code>Express.js</code> <code>TypeScript</code> <code>Postgres</code></p>
 
-> ### 💻 [Webserv](https://github.com/HKHAT/webserv) — Custom HTTP Server (C++98)
+> ### 💻 [Webserv](https://github.com/namoussa-Hx/WebServer) — Custom HTTP Server (C++98)
 > An Nginx-inspired HTTP server built from scratch. Handles non-blocking I/O, multiplexing (epoll/kqueue), robust request parsing, and CGI execution under strict C++98 constraints.
 > <p align="right"><code>C++</code> <code>Sockets</code> <code>UNIX</code></p>
 
