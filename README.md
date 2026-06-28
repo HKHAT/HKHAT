@@ -25,7 +25,7 @@ I am a software engineer who operates comfortably at both ends of the tech stack
 
 ## 🚀 Featured Full-Stack Projects
 
-> ### 🎮 [ft_transcendence](https://github.com/cboujrar/ft_transcendance) — 3D Multiplayer Ludo Platform
+> ### 🎮 [ft_transcendence](https://github.com/HKHAT/ft_transcendance) — 3D Multiplayer Ludo Platform
 > Full-stack real-time web application featuring a 3D Ludo game via Three.js, WebSocket multiplayer architecture, heuristic AI agents, and social features (chat, friends, leaderboards).
 > <p align="right"><code>Node.js</code> <code>Three.js</code> <code>WebSockets</code> <code>JWT</code></p>
 
